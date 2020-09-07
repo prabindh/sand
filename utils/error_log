@@ -1,0 +1,12 @@
+[05-Nov-2011 08:11:43] PHP Warning:  filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for ../default//setup.js in /home/gpupower/public_html/sand/utils/editable.php on line 26
+[05-Nov-2011 08:11:43] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/gpupower/public_html/sand/utils/editable.php on line 26
+[05-Nov-2011 08:11:43] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/gpupower/public_html/sand/utils/editable.php on line 30
+[05-Nov-2011 08:23:37] PHP Warning:  filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for ../default//setup.js in /home/gpupower/public_html/sand/utils/editable.php on line 26
+[05-Nov-2011 08:23:37] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/gpupower/public_html/sand/utils/editable.php on line 26
+[05-Nov-2011 08:23:37] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/gpupower/public_html/sand/utils/editable.php on line 30
+[15-Nov-2011 22:26:39] PHP Warning:  filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for ../default//setup.js in /home/gpupower/public_html/sand/utils/editable.php on line 26
+[15-Nov-2011 22:26:39] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/gpupower/public_html/sand/utils/editable.php on line 26
+[15-Nov-2011 22:26:39] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/gpupower/public_html/sand/utils/editable.php on line 30
+[20-Nov-2011 12:24:57] PHP Warning:  filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for ../default/1?my=undefined/setup.js in /home/gpupower/public_html/sand/utils/editable.php on line 31
+[20-Nov-2011 12:24:57] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/gpupower/public_html/sand/utils/editable.php on line 31
+[20-Nov-2011 12:24:57] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/gpupower/public_html/sand/utils/editable.php on line 35
