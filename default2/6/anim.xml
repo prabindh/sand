@@ -1,0 +1,1 @@
+[{"type":"anim","refname":"robotarm","type":"RotateY","times":"10","every":"1","start":"1","stop":"10"},{"type":"anim","refname":"robotarm1","type":"RotateY","times":"10","every":"1","start":"10","stop":"25"},{"type":"anim","refname":"robotarm","type":"RotateY","times":"10","every":"1","start":"25","stop":"50"}]
